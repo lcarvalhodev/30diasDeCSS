@@ -22,8 +22,6 @@ Gostou da ideia?
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
-* [Dia 01 - Jumping Text](#id01)
+* [Dia 01 - Ícone de mídia social em camadas](#id01)
 
 
-##  Jumping Text <a name="id01"></a>
-![Dia 01](https://user-images.githubusercontent.com/37448340/88348819-d38d7000-cd24-11ea-99d1-39b04afb77f2.gif)
