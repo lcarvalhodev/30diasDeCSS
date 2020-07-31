@@ -14,14 +14,12 @@
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
-Gostou da ideia? 
-[Clique aqui](https://github.com/MilenaCarecho/30diasDeCSS/issues/1) para participar 
-
 #### Youtube Referencias dos desafios
 [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog) - 
 [Creative Creations](https://www.youtube.com/channel/UCOKmVksbzoKJKmtu7rlEM1A) - 
 [DarkCode](https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw)
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
+* [Dia 02 - Loader animado](#id01)
 
 
