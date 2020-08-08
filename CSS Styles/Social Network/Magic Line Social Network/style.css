@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #000;
+}
+ul
+{
+    position: relative;
+    display: flex;
+}
+ul li
+{
+    position: relative;
+    list-style: none;
+    margin: 0 20px;
+    cursor: pointer;
+}
+ul li a
+{
+    text-decoration: none;
+}
+ul li a .fa
+{
+    color: #222;
+    font-size: 6em;
+}
+ul li::before
+{
+    font-family: fontAwesome;
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 6em;
+    height: 0;
+    overflow: hidden;
+    transition: 0.5s ease-in-out;
+}
+ul li:nth-child(1)::before
+{
+    content: '\f09a';
+    color: #3b5998;
+    border-bottom: 4px solid #3b5998;
+}
+ul li:nth-child(2)::before
+{
+    content: '\f099';
+    color: #55acee;
+    border-bottom: 4px solid #55acee;
+}
+ul li:nth-child(3)::before
+{
+    content: '\f0d5';
+    color: #dd4b39;
+    border-bottom: 4px solid #dd4b39;
+}
+ul li:nth-child(4)::before
+{
+    content: '\f0e1';
+    color: #0077B5;
+    border-bottom: 4px solid #0077B5;
+}
+ul li:nth-child(5)::before
+{
+    content: '\f16d';
+    color: #e4405f;
+    border-bottom: 4px solid #e4405f;
+}
+ul li:hover::before
+{
+    height: 100%;
+}
